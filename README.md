@@ -9,3 +9,4 @@ My Own Web Browser using Python<br>
 you can download code from here (From My GitHub)
 <br> and you can Download .exe file 
 <br> this link 
+<br>https://www.mediafire.com/file/o8uor7lp5mwwdk9/jk_web.exe/file
